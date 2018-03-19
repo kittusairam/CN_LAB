@@ -1,0 +1,19 @@
+﻿Build started 12/19/2017 12:57:35 PM.
+     1>Project "C:\Users\krish\OneDrive\documents\visual studio 2013\Projects\hold_and_wait_receiver\hold_and_wait_receiver\hold_and_wait_receiver.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _LIB /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt hold_and_wait_receiver.cpp
+         hold_and_wait_receiver.cpp
+     1>c:\users\krish\onedrive\documents\visual studio 2013\projects\hold_and_wait_receiver\hold_and_wait_receiver\hold_and_wait_receiver.cpp(14): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(211) : see declaration of 'fopen'
+     1>c:\users\krish\onedrive\documents\visual studio 2013\projects\hold_and_wait_receiver\hold_and_wait_receiver\hold_and_wait_receiver.cpp(32): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(283) : see declaration of 'scanf'
+     1>c:\users\krish\onedrive\documents\visual studio 2013\projects\hold_and_wait_receiver\hold_and_wait_receiver\hold_and_wait_receiver.cpp(34): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(211) : see declaration of 'fopen'
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\krish\onedrive\documents\visual studio 2013\Projects\hold_and_wait_receiver\Debug\hold_and_wait_receiver.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\krish\onedrive\documents\visual studio 2013\Projects\hold_and_wait_receiver\Debug\hold_and_wait_receiver.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\krish\onedrive\documents\visual studio 2013\Projects\hold_and_wait_receiver\Debug\hold_and_wait_receiver.lib" /MACHINE:X86 Debug\hold_and_wait_receiver.obj
+         hold_and_wait_receiver.vcxproj -> C:\Users\krish\onedrive\documents\visual studio 2013\Projects\hold_and_wait_receiver\Debug\hold_and_wait_receiver.exe
+     1>Done Building Project "C:\Users\krish\OneDrive\documents\visual studio 2013\Projects\hold_and_wait_receiver\hold_and_wait_receiver\hold_and_wait_receiver.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:01.60
